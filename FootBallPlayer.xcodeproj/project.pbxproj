@@ -16,6 +16,18 @@
 		E0A2985D171EEA03001FD422 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = E0A2985C171EEA03001FD422 /* Default.png */; };
 		E0A2985F171EEA03001FD422 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E0A2985E171EEA03001FD422 /* Default@2x.png */; };
 		E0A29861171EEA03001FD422 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E0A29860171EEA03001FD422 /* Default-568h@2x.png */; };
+		E0A29869171EEB1E001FD422 /* messi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E0A29868171EEB1E001FD422 /* messi.jpg */; };
+		E0A2986B171EEB24001FD422 /* xavi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E0A2986A171EEB24001FD422 /* xavi.jpg */; };
+		E0A2986D171EED13001FD422 /* Barca.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E0A2986C171EED13001FD422 /* Barca.jpg */; };
+		E0A29871171EED83001FD422 /* Player.m in Sources */ = {isa = PBXBuildFile; fileRef = E0A29870171EED83001FD422 /* Player.m */; };
+		E0A29877171EEDCC001FD422 /* DataManager.m in Sources */ = {isa = PBXBuildFile; fileRef = E0A29876171EEDCB001FD422 /* DataManager.m */; };
+		E0A29879171EEE1C001FD422 /* Data.plist in Resources */ = {isa = PBXBuildFile; fileRef = E0A29878171EEE1C001FD422 /* Data.plist */; };
+		E0A2987D171EF626001FD422 /* MainView.m in Sources */ = {isa = PBXBuildFile; fileRef = E0A2987B171EF626001FD422 /* MainView.m */; };
+		E0A2987E171EF626001FD422 /* MainView.xib in Resources */ = {isa = PBXBuildFile; fileRef = E0A2987C171EF626001FD422 /* MainView.xib */; };
+		E0A29880171F04CD001FD422 /* RealMadrid.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E0A2987F171F04CD001FD422 /* RealMadrid.jpg */; };
+		E0A301F3171F281600C97920 /* DetailPlayer.m in Sources */ = {isa = PBXBuildFile; fileRef = E0A301F1171F281600C97920 /* DetailPlayer.m */; };
+		E0A301F4171F281600C97920 /* DetailPlayer.xib in Resources */ = {isa = PBXBuildFile; fileRef = E0A301F2171F281600C97920 /* DetailPlayer.xib */; };
+		E0A301F6171F2CC200C97920 /* ronaldo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E0A301F5171F2CC200C97920 /* ronaldo.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +44,22 @@
 		E0A2985C171EEA03001FD422 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		E0A2985E171EEA03001FD422 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		E0A29860171EEA03001FD422 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		E0A29868171EEB1E001FD422 /* messi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = messi.jpg; sourceTree = "<group>"; };
+		E0A2986A171EEB24001FD422 /* xavi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xavi.jpg; sourceTree = "<group>"; };
+		E0A2986C171EED13001FD422 /* Barca.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Barca.jpg; sourceTree = "<group>"; };
+		E0A2986F171EED83001FD422 /* Player.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Player.h; sourceTree = "<group>"; };
+		E0A29870171EED83001FD422 /* Player.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Player.m; sourceTree = "<group>"; };
+		E0A29875171EEDCB001FD422 /* DataManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DataManager.h; sourceTree = "<group>"; };
+		E0A29876171EEDCB001FD422 /* DataManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DataManager.m; sourceTree = "<group>"; };
+		E0A29878171EEE1C001FD422 /* Data.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Data.plist; sourceTree = "<group>"; };
+		E0A2987A171EF626001FD422 /* MainView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainView.h; sourceTree = "<group>"; };
+		E0A2987B171EF626001FD422 /* MainView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainView.m; sourceTree = "<group>"; };
+		E0A2987C171EF626001FD422 /* MainView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MainView.xib; sourceTree = "<group>"; };
+		E0A2987F171F04CD001FD422 /* RealMadrid.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = RealMadrid.jpg; sourceTree = "<group>"; };
+		E0A301F0171F281600C97920 /* DetailPlayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailPlayer.h; sourceTree = "<group>"; };
+		E0A301F1171F281600C97920 /* DetailPlayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailPlayer.m; sourceTree = "<group>"; };
+		E0A301F2171F281600C97920 /* DetailPlayer.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DetailPlayer.xib; sourceTree = "<group>"; };
+		E0A301F5171F2CC200C97920 /* ronaldo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ronaldo.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +108,14 @@
 			children = (
 				E0A29859171EEA03001FD422 /* AppDelegate.h */,
 				E0A2985A171EEA03001FD422 /* AppDelegate.m */,
+				E0A301F0171F281600C97920 /* DetailPlayer.h */,
+				E0A301F1171F281600C97920 /* DetailPlayer.m */,
+				E0A301F2171F281600C97920 /* DetailPlayer.xib */,
+				E0A2987A171EF626001FD422 /* MainView.h */,
+				E0A2987B171EF626001FD422 /* MainView.m */,
+				E0A2987C171EF626001FD422 /* MainView.xib */,
+				E0A2986E171EED48001FD422 /* Model */,
+				E0A29867171EEB07001FD422 /* Resource */,
 				E0A29851171EEA03001FD422 /* Supporting Files */,
 			);
 			path = FootBallPlayer;
@@ -97,6 +133,31 @@
 				E0A29860171EEA03001FD422 /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		E0A29867171EEB07001FD422 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				E0A301F5171F2CC200C97920 /* ronaldo.jpg */,
+				E0A2987F171F04CD001FD422 /* RealMadrid.jpg */,
+				E0A2986C171EED13001FD422 /* Barca.jpg */,
+				E0A2986A171EEB24001FD422 /* xavi.jpg */,
+				E0A29868171EEB1E001FD422 /* messi.jpg */,
+			);
+			name = Resource;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		E0A2986E171EED48001FD422 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				E0A2986F171EED83001FD422 /* Player.h */,
+				E0A29870171EED83001FD422 /* Player.m */,
+				E0A29875171EEDCB001FD422 /* DataManager.h */,
+				E0A29876171EEDCB001FD422 /* DataManager.m */,
+				E0A29878171EEE1C001FD422 /* Data.plist */,
+			);
+			name = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -154,6 +215,14 @@
 				E0A2985D171EEA03001FD422 /* Default.png in Resources */,
 				E0A2985F171EEA03001FD422 /* Default@2x.png in Resources */,
 				E0A29861171EEA03001FD422 /* Default-568h@2x.png in Resources */,
+				E0A29869171EEB1E001FD422 /* messi.jpg in Resources */,
+				E0A2986B171EEB24001FD422 /* xavi.jpg in Resources */,
+				E0A2986D171EED13001FD422 /* Barca.jpg in Resources */,
+				E0A29879171EEE1C001FD422 /* Data.plist in Resources */,
+				E0A2987E171EF626001FD422 /* MainView.xib in Resources */,
+				E0A29880171F04CD001FD422 /* RealMadrid.jpg in Resources */,
+				E0A301F4171F281600C97920 /* DetailPlayer.xib in Resources */,
+				E0A301F6171F2CC200C97920 /* ronaldo.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -166,6 +235,10 @@
 			files = (
 				E0A29857171EEA03001FD422 /* main.m in Sources */,
 				E0A2985B171EEA03001FD422 /* AppDelegate.m in Sources */,
+				E0A29871171EED83001FD422 /* Player.m in Sources */,
+				E0A29877171EEDCC001FD422 /* DataManager.m in Sources */,
+				E0A2987D171EF626001FD422 /* MainView.m in Sources */,
+				E0A301F3171F281600C97920 /* DetailPlayer.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,6 +353,7 @@
 				E0A29866171EEA03001FD422 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

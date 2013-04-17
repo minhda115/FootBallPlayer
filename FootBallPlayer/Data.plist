@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>logoclub</key>
+		<string>RealMadrid.jpg</string>
+		<key>image</key>
+		<string>ronaldo.jpg</string>
+		<key>name</key>
+		<string>Crit Ronaldo</string>
+		<key>club</key>
+		<string>RealMadrid</string>
+		<key>height</key>
+		<string>1m85</string>
+	</dict>
+	<dict>
+		<key>logoclub</key>
+		<string>Barca.jpg</string>
+		<key>image</key>
+		<string>messi.jpg</string>
+		<key>name</key>
+		<string>Lionel Messi</string>
+		<key>club</key>
+		<string>Barca</string>
+		<key>height</key>
+		<string>1m69</string>
+	</dict>
+	<dict>
+		<key>logoclub</key>
+		<string>Barca.jpg</string>
+		<key>image</key>
+		<string>xavi.jpg</string>
+		<key>name</key>
+		<string>Xavi Henadez</string>
+		<key>club</key>
+		<string>Barca</string>
+		<key>height</key>
+		<string>1m70</string>
+	</dict>
+</array>
+</plist>
